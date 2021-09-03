@@ -1,6 +1,6 @@
 # OneTimePad
 
-<img src="https://github.com/SRingshandl/OneTimePad/blob/main/Example-Image.png" width="50%">
+<img src="https://github.com/SRingshandl/OneTimePad/blob/main/Example_Image.png" width="100%">
 
 Encrypts text from a text file and outputs an encrypted text file and a corresponding key.  
 See https://en.wikipedia.org/wiki/One-time_pad for further details on methodology.
